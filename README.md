@@ -1,2 +1,2 @@
 # training-2022-10-21
-"# Local Drive" 
+อบรม Data Science เบื้องต้น
